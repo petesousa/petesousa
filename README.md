@@ -1,15 +1,30 @@
-### Pete Sousa | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquecruzsousa/)
+### Pete Sousa
 
-#### Hello there!
+Hello there! My name is Pete and I am a fullstack web developer from Brazil :brazil:
 
-My name is Pete and I am a web developer from Brazil.
-I am currently working at SAP with different application within the SAP Cloud Platform ecosystem.
+##### About my career
+
+- I am currently working at SAP with different application within the SAP Cloud Platform ecosystem ![SAP](https://img.shields.io/badge/-white?logo=sap&style=flat-square) 
+- I've been wearing the Scrum Master hat for a year now :tophat:
+
+##### Let's connect!
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquecruzsousa/) 
 
 
-[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=petesousa&show_icons=true&count_private=true&theme=vue)](https://github.com/petesousa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petesousa&langs_count=8&count_private=true&layout=compact&theme=vue)](https://github.com/petesousa)
+##### An Overview of my GitHub
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=petesousa&repo=github-readme-stats)](https://github.com/petesousa/github-readme-stats) -->
+[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=petesousa&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/petesousa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petesousa&langs_count=8&count_private=true&layout=compact&theme=gruvbox)](https://github.com/petesousa)
+
+##### Random personal things about myself
+
+- :sagittarius: | :virgo: | :libra:
+- I am very into arts in general, from drawing and painting up to beatboxing, producing beats and playing a couple of instruments :musical_score:
+- I'm finally doing Yoga almost every day for a couple of months now
+- I've been working from home since March 2020 and it has been a great experience
+- I am really interested in economics and investing
+
+
 
 <!--
 **petesousa/petesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
