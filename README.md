@@ -1,6 +1,6 @@
 ### Pete Sousa
 
-Hello there! My name is Pete and I am a fullstack web developer from Brazil :brazil:
+Hello there! My name is Pete and I am a fullstack developer from Brazil :brazil:
 
 ##### About my career
 
