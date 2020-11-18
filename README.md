@@ -18,13 +18,11 @@ Hello there! My name is Pete and I am a fullstack developer from Brazil :brazil:
 
 ##### Random personal things about myself
 
-- :sagittarius: :virgo: :libra:
+- :sagittarius: / :virgo: / :libra:
 - I am very into arts in general, from drawing and painting up to beatboxing, producing beats and playing a couple of instruments :musical_score:
 - I'm finally doing Yoga almost every day for a couple of months now
 - I've been working from home since March 2020 and it has been a great experience
 - I am really interested in economics and investing
-
-
 
 <!--
 **petesousa/petesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
