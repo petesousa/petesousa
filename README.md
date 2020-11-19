@@ -4,7 +4,7 @@ Hello there! My name is Pete and I am a fullstack developer from Brazil :brazil:
 
 ##### About my career
 
-- I am currently working at SAP with different application within the SAP Cloud Platform ecosystem ![SAP](https://img.shields.io/badge/-white?logo=sap&style=flat-square) 
+- I am currently working at SAP with different applications within the SAP Cloud Platform ecosystem ![SAP](https://img.shields.io/badge/-white?logo=sap&style=flat-square) 
 - I've been wearing the Scrum Master hat for a year now :tophat:
 
 ##### Let's connect!
