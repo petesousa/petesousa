@@ -13,8 +13,8 @@ Hello there! My name is Pete and I am a fullstack developer from Brazil :brazil:
 
 ##### An Overview of my GitHub
 
-[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=petesousa&show_icons=true&count_private=true&theme=graywhite)](https://github.com/petesousa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petesousa&langs_count=8&count_private=true&layout=compact&theme=graywhite)](https://github.com/petesousa)
+[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=petesousa&show_icons=true&hide_border=true&count_private=true&theme=graywhite)](https://github.com/petesousa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petesousa&langs_count=8&hide_border=true&count_private=true&layout=compact&theme=graywhite)](https://github.com/petesousa)
 
 ##### Random personal things about myself
 
