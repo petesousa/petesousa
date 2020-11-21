@@ -4,8 +4,8 @@ Hello there! My name is Pete and I am a fullstack developer from Brazil :brazil:
 
 ##### About my career
 
-- I am currently working at SAP with different applications within the SAP Cloud Platform ecosystem ![SAP](https://img.shields.io/badge/-white?logo=sap&style=flat-square) 
-- I've been wearing the Scrum Master hat for a year now :tophat:
+- I am currently working at SAP with different applications within the SAP Cloud Platform ecosystem
+- I've been my team's Scrum Master for a year now
 
 ##### Let's connect!
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquecruzsousa/) 
@@ -15,7 +15,7 @@ Hello there! My name is Pete and I am a fullstack developer from Brazil :brazil:
 
 ##### Random personal things about myself
 
-- I am very into arts in general, from drawing and painting up to beatboxing, producing beats and playing a couple of instruments :musical_score:
+- I am very into arts in general, from drawing and painting up to beatboxing, producing beats and playing a couple of instruments
 - I'm finally doing Yoga almost every day for a couple of months now
 - I've been working from home since March 2020 and it has been a great experience
 - I am really interested in economics and investing
